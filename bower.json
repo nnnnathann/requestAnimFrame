@@ -1,0 +1,10 @@
+{
+  "name": "requestAnimFrame",
+  "version": "0.0.1",
+  "main": "requestAnimFrame.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
